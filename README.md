@@ -1,0 +1,1 @@
+Run `node .\convertir-fitxers.js`
